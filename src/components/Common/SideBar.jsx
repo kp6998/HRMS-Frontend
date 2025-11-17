@@ -60,7 +60,7 @@ export default function SideBar() {
 													<a href="company.html" class="text-dark p-4 ctm-border-right ctm-border-left"><span class="lnr lnr-apartment pr-0 pb-lg-2 font-23"></span><span class="">Company</span></a>												
 												</div> */}
 												<div class="col-6 align-items-center shadow-none text-center">												
-													<a href="calendar.html" class="text-dark p-4 ctm-border-right"><span class="lnr lnr-calendar-full pr-0 pb-lg-2 font-23"></span><span class="">Attedance</span></a>												
+													<a href="/employees" class="text-dark p-4 ctm-border-right"><span class="lnr lnr-users pr-0 pb-lg-2 font-23"></span><span class="">Employees</span></a>												
 												</div>
 												<div class="col-6 align-items-center shadow-none text-center">											
 													<a href="/leaves" class="text-dark p-4 ctm-border-right ctm-border-left"><span class="lnr lnr-briefcase pr-0 pb-lg-2 font-23"></span><span class="">Leave</span></a>											

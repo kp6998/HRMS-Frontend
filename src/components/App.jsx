@@ -3,6 +3,7 @@ import Header from "./Common/Header.jsx";
 import SideBar from "./Common/SideBar.jsx";
 import RouteConfiguration from "./Routing/RouteConfiguration.jsx";
 import Login from "./Auth/Login.jsx";
+import Test from "./Auth/Test.jsx";
 import { useSelector } from "react-redux";
 
 export default function App() {
@@ -17,6 +18,7 @@ export default function App() {
 
 	return (
 		<>
+		{/* <Test /> */}
 			<div class="inner-wrapper">
 				<div id="loader-wrapper">
 					<div class="loader">
